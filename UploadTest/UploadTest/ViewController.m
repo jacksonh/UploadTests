@@ -82,7 +82,7 @@
 
 - (IBAction)OnUploadClicked:(id)sender {
 
-    NSURL *url = [NSURL URLWithString:@"https://mobiletest.entradahealth.net/UploadHandler.aspx"];
+    NSURL *url = [NSURL URLWithString:@"http://ec.jacksonh.org:9000/"];
     
     [self uploadToURL:url];
 
