@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTUploadTest", "MTUploadTest\MTUploadTest.csproj", "{6F7FE200-8E63-4441-9AD7-0D19F8B6996F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F7FE200-8E63-4441-9AD7-0D19F8B6996F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6F7FE200-8E63-4441-9AD7-0D19F8B6996F}.Debug|iPhone.Build.0 = Debug|iPhone
+		{6F7FE200-8E63-4441-9AD7-0D19F8B6996F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6F7FE200-8E63-4441-9AD7-0D19F8B6996F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6F7FE200-8E63-4441-9AD7-0D19F8B6996F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6F7FE200-8E63-4441-9AD7-0D19F8B6996F}.Release|iPhone.Build.0 = Release|iPhone
+		{6F7FE200-8E63-4441-9AD7-0D19F8B6996F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6F7FE200-8E63-4441-9AD7-0D19F8B6996F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MTUploadTest\MTUploadTest.csproj
+	EndGlobalSection
+EndGlobal
